@@ -43,19 +43,10 @@ The system uses a CSV file (`ratings.csv`) for user-movie ratings. The format is
 
 ---
 
-## Customization
-- **Change the number of recommendations:** Modify the `topN` variable in the `main()` function.
-- **Add more movies:** Update the `movieNames` vector and extend `ratings.csv` accordingly.
-
----
-
 ## Contributing
 Feel free to contribute by submitting pull requests or reporting issues.
 
----
 
-## License
-This project is open-source and available under the MIT License.
 
 
 
