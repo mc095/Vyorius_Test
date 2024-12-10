@@ -31,7 +31,7 @@ The system uses a CSV file (`ratings.csv`) for user-movie ratings. The format is
 
 ## Outputs
 
-![Input Screen](./screenshot.png)
+![Input Screen](./image.png)
 
 ---
 
